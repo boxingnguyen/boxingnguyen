@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm  👋
 
 
 <!-- **boxingnguyen/boxingnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -7,19 +7,21 @@
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate with Flutter
 - 🤔 I’m looking for help with Flutter 
-- 💬 Ask me about ...
+- 💬 Ask me about Vietnam and Flutter
 - 📫 How to reach me: boxingnguyen@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: [kwiən˨˩][ʔajŋ̟˧˧]
+- ⚡ Fun fact: I was born in breech and came out so fast!
 
-[![Quyen Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxingnguyen)](https://github.com/anuraghazra/github-readme-stats)
+[![Quyen Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxingnguyen&count_private=true)](https://github.com/boxingnguyen)
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/boxingnguyen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=boxingnguyen)
+
+
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
