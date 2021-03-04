@@ -14,6 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Quyen Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxingnguyen)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -104,14 +106,6 @@
 5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="[![Quyen Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxingnguyen)](https://github.com/anuraghazra/github-readme-stats)" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
