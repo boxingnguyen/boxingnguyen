@@ -22,7 +22,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://avatar-ex-swe.nixcdn.com/song/2020/11/24/6/8/8/a/1606187842165_640.jpg" alt="Quyen Anh Spotify Playing" width="350" />](https://open.spotify.com/user/31vcysnwogevr6s4vg2uggawstui)
-### Connect with me:`
+### Connect with me:
 
 [<img align="left" alt="boxingnguyen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="boxingnguyen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -66,8 +66,8 @@
 - [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
 - [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0) -->
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/boxingnguyen)
+<!-- youtube channel -->
+➡️ [more videos...](https://github.com/boxingnguyen/#) 
 
 ---
 
@@ -80,8 +80,8 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/boxingnguyen/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/boxingnguyen/emmet-part-2-advanced-4c65) -->
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://boxingnguyen.com)
+<!-- blog address -->
+➡️ [more blog posts...](https://github.com/boxingnguyen/#)
 
 ---
 
