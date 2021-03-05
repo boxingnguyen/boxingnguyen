@@ -91,8 +91,8 @@
 [youtube]: https://www.youtube.com/channel/UCSBxceidYQc66zWyJ9dDbUg
 [instagram]: https://instagram.com/boxingnguyen
 [facebook]: https://www.facebook.com/QuyenAnh175/
-<!-- [linkedin]: https://linkedin.com/in/boxingnguyen
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[linkedin]: https://www.linkedin.com/in/quyen-anh-nguyen/
+[webdevplaylist]: https://github.com/boxingnguyen/#
+[jsplaylist]: https://github.com/boxingnguyen/#
+[cssplaylist]: https://github.com/boxingnguyen/#
+[reactplaylist]: https://github.com/boxingnguyen/#
