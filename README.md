@@ -1,4 +1,4 @@
-### Hi there, I'm a Husband, Father, Developer, and Investor! 👋
+### Hi there, I'm a Full Stack Developer, and Investor! 👋
 
 
 <!-- **boxingnguyen/boxingnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
